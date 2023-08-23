@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pro.promit@outlook.com**
 
-- 📄 Know about my experiences [Promit]((https://www.linkedin.com/in/promit-dey-3045b2288/)
+- 📄 Know about my experiences [Promit](https://www.linkedin.com/in/promit-dey-3045b2288/)
 
 - ⚡ Fun fact **Backend developers have the ability to turn pizza into code, fueled by their endless appetite for deliciously cheesy solutions!**
 
