@@ -7,13 +7,13 @@
 
 - 📫 How to reach me **pro.promit@outlook.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/promit-dey-3045b2288](www.linkedin.com/in/promit-dey-3045b2288)
+- 📄 Know about my experiences [Promit](www.linkedin.com/in/promit-dey-3045b2288)
 
 - ⚡ Fun fact **Backend developers have the ability to turn pizza into code, fueled by their endless appetite for deliciously cheesy solutions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/promit dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="promit dey" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/promit-dey-3045b2288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="promit dey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
